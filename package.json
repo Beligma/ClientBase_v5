@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Beligma/CB_v5/issues"
   },
-  "homepage": "https://github.com/Beligma/CB_v5#readme"
+  "homepage": "https://github.com/Beligma/CB_v5#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/register": "^7.18.9",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
 }
